@@ -19,3 +19,13 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+.secrets.yml
+=======
+secrets.yml
+>>>>>>> e7d51084891318b5573681992f296991dc0fd73d
+=======
+secrets.yml
+>>>>>>> fc59e90b21ffce871ff6a688205d34d497944a82
