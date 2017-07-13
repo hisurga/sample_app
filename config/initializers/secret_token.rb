@@ -1,0 +1,1 @@
+SampleApp::Application.config.secret_key_base = '6a070b0c902eb14b22671443bf08275bc7b419dfdfb33cd22d4be3a805a5fa4de33eefe5e1573a2a860349cd465f16844941c1dc6184b02e21c9c7f0a2e406c3'
